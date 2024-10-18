@@ -10,7 +10,7 @@ const Services = () => {
     {
       image: 'images/freight forwarder.png',
       title: 'FREIGHT FORWARDING',
-      description: 'Lorem ipsum dolor sit amet pretium consectetur adipiscing elit. Lorem consectetur adipiscing elit.',
+      description: ' Sharon Enterprises provides global freight forwarding with customized air and sea services. We ensure fast, reliable delivery and access to key markets worldwide. Trust us for efficient, flexible logistics solutions.',
       link: 'javascript:void(0)',
     },
     {
@@ -22,7 +22,7 @@ const Services = () => {
     {
       image: 'images/custom.jpg',
       title: 'CUSTOM BROKER SERVICES',
-      description: 'Lorem ipsum dolor sit amet pretium consectetur adipiscing elit. Lorem consectetur adipiscing elit.',
+      description: 'Sharon Enterprises provides fast and reliable sea and air customs clearance. Our expert team ensures smooth processing with services like import/export clearance, documentation, shipment examination, and warehousing.',
       link: 'javascript:void(0)', // replace with actual link when available
     },
     {
